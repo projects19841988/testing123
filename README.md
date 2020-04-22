@@ -7,3 +7,5 @@ Directions on how to contribute to OS
 Yet, yet, yet another line!
 
 I have deleted a line
+
+This is another change!
